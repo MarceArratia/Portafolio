@@ -171,6 +171,7 @@ body{
 .sj-book .p24{
 	background-color:white;
 	background-image:url(../pics/book-covers\ 2.jpg) !important;
+	background: no-repeat;
 }
 
 .sj-book .p1{
