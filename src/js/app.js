@@ -1,4 +1,4 @@
-/* Steve jobs' book */
+
 
 function updateDepth(book, newPage) {
 
