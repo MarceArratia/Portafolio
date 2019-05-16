@@ -13,7 +13,21 @@ ul, table, form{
 
 body{
 	overflow:hidden;
-	background: url('../pics/coverFirst.jpg');
+	background:rgba(191, 191, 166, 0.493);
+}
+
+.imgEdit{
+	height: 30px;
+	width: 50px;
+	margin-top: 120px;
+	margin-left: 125px;
+}
+
+.editClass{
+	font-size: 10px;
+	color: black;
+	text-align: center;
+	margin-top: 1%;
 }
 
 .animated{
@@ -60,6 +74,7 @@ body{
 	font-size: 35px;
 	font-weight: 400;
 	text-align: center;
+	margin-top: 15%;
 }
 
 .sj-book .book-content{
@@ -325,13 +340,13 @@ body{
 }
 
 .sj-book .table-contents a{
-	float:left;
-	width:100%;
-	clear:both;
-	text-decoration:none;
-	color:#333;
-	margin:2px 0;
-	padding:0 10px;
+	float: left;
+	width: 100%;
+	clear: both;
+	text-decoration: none;
+	color: #333;
+	margin: 10px 0;
+	padding: 0 10px;
 }
 
 .sj-book .table-contents a:hover{
