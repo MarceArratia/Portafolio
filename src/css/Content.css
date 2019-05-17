@@ -112,7 +112,7 @@ h2{
 
   .divTable{
     display: inline-block; 
-    margin-left: 28%;
+    margin-left: 10%;
   }
   .thProject{
   padding-left: 110px;
@@ -137,8 +137,13 @@ h2{
 }
 
 .divTitleTable{
-  text-align: center;
-  font-size: 20px; 
+  font-size: 20px;
+  margin-left: 60%;
+}
+
+.divTitleTabletwo{
+  font-size: 20px;
+  margin-left: 43%;
 }
 
 .divTableTwo{
@@ -152,10 +157,30 @@ h2{
     padding-left: 25%;
   }
 
+  .imgKills{
+    width: 60px;
+    height: 60px;
+  }
+
   .softKills{
     width: 70px;
     height: 70px;
     padding-left: 25%;
+  }
+
+  .tableFront{
+    margin-left: 10%;
+  }
+
+  .frontEnd{
+    width: 70px;
+    height: 70px;
+    padding-left: 35%;
+  }
+
+  .divTitleFrint{
+    margin-left: 40%;
+    font-size: 20px;
   }
   
   .divContact{
